@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [Whatsapp Clone](https://github.com/manish182003/Whatsapp_Clone)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Android,Java**
+- 💬 Ask me about **Flutter,React Js**
 
 - 📫 How to reach me **manishjoshi182003@gmail.com**
 
