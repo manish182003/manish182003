@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manish-joshi-58a3541a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-joshi-58a3541a6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manish-joshi-58a3541a6" target="blank"><img align="center" src="https://github.com/PrinceJoshi312/PrinceJoshi312/blob/main/images/LI-In-Bug.png" alt="manish-joshi-58a3541a6" height="30" width="40" /></a>
 <a href="https://fb.com/manish joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manish joshi" height="30" width="40" /></a>
 <a href="https://instagram.com/manishjoshi1744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishjoshi1744" height="30" width="40" /></a>
 </p>
