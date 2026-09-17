@@ -1,228 +1,667 @@
 <!-- HEADER -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=190&section=header&text=Manish%20Joshi&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Builder&descAlignY=58&descSize=17&descColor=a78bfa" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=200&section=header&text=Manish%20Joshi&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+Agents+%26+LLM+Systems;Semantic+Caching+%26+Vector+Search+Infra;Flutter+%2B+Node.js+SaaS+Products;RAG+Pipelines+%26+LLM+Orchestration;From+Prototype+to+Production+%E2%80%94+Fast" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+End-to-End+AI%2FML+Systems;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;PyTorch+%7C+XGBoost+%7C+RAG+%7C+MLOps;Software+Engineering+meets+AI;From+Data+%E2%86%92+Models+%E2%86%92+APIs+%E2%86%92+Deployment" alt="Typing SVG"/>
+
 </a>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishjoshi182003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-joshi182)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manishjoshi.online)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish182003)
+<a href="mailto:manishjoshi182003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=manish182003&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+<a href="https://linkedin.com/in/manish-joshi182">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://manishjoshi.online">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/manish182003">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=manish182003&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
+# 👋 Hi, I'm Manish
 
 ```python
 class ManishJoshi:
-    role       = ["AI Engineer", "Full-Stack Engineer", "Flutter Developer"]
-    location   = "Haldwani, Uttarakhand 🇮🇳"
-    education  = "B.Tech CS @ Amrapali Institute of Technology (2025)"
-    currently  = "Software Developer @ Esferasoft Solutions"
 
-    focus = [
-        "Building production-grade LLM pipelines & AI agents",
-        "Distributed backend systems with real-world load testing",
-        "Cross-platform SaaS products from 0 → launch",
-        "Turning research-grade ML into deployed, usable tools",
+    role = "Software Engineer → AI/ML Engineer"
+
+    education = "B.Tech Computer Science & Engineering | 2025"
+
+    currently_learning = [
+        "Machine Learning",
+        "Deep Learning",
+        "Generative AI",
+        "RAG",
+        "MLOps"
     ]
 
-    philosophy = "Ship fast. Measure everything. Architect for scale."
+    building = [
+        "End-to-End ML Systems",
+        "Deep Learning Applications",
+        "RAG & LLM Applications",
+        "Production AI APIs"
+    ]
+
+    philosophy = "Don't just train models. Build systems."
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🧭 My Story
+
+My journey started with **software engineering**.
+
+I worked on production applications where I learned how to build features, integrate APIs, work with backend systems, debug real problems and ship software that people actually use.
+
+At **Esferasoft Solutions**, I worked on an **AI-powered fitness application** as well as a **real-time laundry pickup and delivery platform**.
+
+Working around AI-powered features made me want to understand the technology behind them.
+
+So I started going deeper into **Machine Learning, Deep Learning, Generative AI and MLOps**.
+
+Instead of only following courses, I started building complete systems myself.
+
+Today, my focus is on combining my **software engineering foundation** with hands-on AI/ML development.
+
+```text
+Software Engineering
+        │
+        ▼
+Production Applications
+        │
+        ▼
+AI-Integrated Applications
+        │
+        ▼
+Machine Learning
+        │
+        ▼
+Deep Learning
+        │
+        ▼
+Generative AI
+        │
+        ▼
+MLOps & Deployment
+        │
+        ▼
+AI/ML Engineering
+```
+
+---
+
+# ⚡ What I Do
 
 <div align="center">
 
-**🤖 AI / ML**
+| 🧠 Machine Learning | 🔥 Deep Learning | 🤖 Generative AI | ⚙️ MLOps |
+|:---:|:---:|:---:|:---:|
+| XGBoost | PyTorch | RAG | Docker |
+| Scikit-learn | CNNs | FAISS | MLflow |
+| Feature Engineering | ResNet | BM25 | GitHub Actions |
+| Optuna | YOLOv8 | Cross-Encoder | AWS EC2 |
+| Model Evaluation | Transformers | NL-to-SQL | Monitoring |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6366f1?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+</div>
 
-**🔧 Backend & Infrastructure**
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+# 🚀 Featured Projects
+
+## 📊 DataSense AI
+
+### Tabular Data-to-Insight Platform & Hybrid RAG Engine
+
+<div align="center">
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-blue?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-Sparse_Retrieval-purple?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq_API-orange?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</div>
+
+> Turning structured business data into answers through natural language.
+
+### 🏗️ Architecture
+
+```text
+                    Dataset
+                       │
+                       ▼
+               DuckDB Ingestion
+                       │
+                       ▼
+                Auto Profiling
+                       │
+                       ▼
+          ┌────────────────────────┐
+          │    Hybrid Retrieval    │
+          │                        │
+          │  FAISS Dense Search    │
+          │          +             │
+          │  BM25 Sparse Search    │
+          │          ↓             │
+          │      RRF Fusion        │
+          │          ↓             │
+          │ Cross-Encoder Ranking  │
+          └────────────────────────┘
+                       │
+                       ▼
+                 NL-to-SQL + RAG
+                       │
+                       ▼
+                     LLM
+                       │
+                       ▼
+                Business Insight
+```
+
+### 🔥 Highlights
+
+- ⚡ Processes **60K+ row datasets in under 0.3 seconds**
+- 🚀 Reduced BI turnaround from **hours to under 10 seconds**
+- 🎯 Achieved **98% hit-rate@5** on retrieval quality
+- 🔎 Hybrid **FAISS + BM25** retrieval
+- 🔀 RRF fusion
+- 🧠 Cross-encoder reranking
+- 💬 Natural-language data querying
+- 🌊 SSE streaming
+- 🤖 Groq Llama 3.3 70B
+- 💾 Designed to operate within a **256 MB memory budget**
+
+---
+
+# 📡 TelcoPredict
+
+### Customer Churn Prediction & MLOps Pipeline
+
+<div align="center">
+
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-blue?style=flat-square)
+![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter_Tuning-orange?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**🗄️ Databases & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-**📱 Frontend & Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
 </div>
 
+> A machine learning project focused on both model performance and reliable deployment.
+
+### 🧠 Machine Learning Pipeline
+
+```text
+Raw Dataset
+     │
+     ▼
+Data Validation
+     │
+     ▼
+Feature Engineering
+     │
+     ▼
+Class Imbalance Handling
+     │
+     ▼
+XGBoost
+     │
+     ▼
+Optuna Hyperparameter Tuning
+     │
+     ▼
+Model Evaluation
+```
+
+### ⚙️ MLOps Pipeline
+
+```text
+Git Push
+   │
+   ▼
+GitHub Actions
+   │
+   ▼
+Docker Build
+   │
+   ▼
+Validation + Tests
+   │
+   ▼
+AWS EC2
+   │
+   ▼
+MLflow Tracking / Registry
+```
+
+### 📈 Results
+
+- Dataset imbalance: **73:27**
+- XGBoost classifier
+- Optuna hyperparameter tuning
+- Class-weight balancing
+- Recall increased to **82%**
+- Great Expectations data validation
+- MLflow experiment tracking
+- MLflow model registry
+- Training-serving skew safeguards
+
+### 🚀 Deployment
+
+```text
+Before  →  25 minutes
+
+After   →  < 3 minutes
+```
+
+**~90% reduction in deployment time per push.**
+
 ---
 
-## 🚀 Featured Projects
+# 🔊 AudioCNN
 
-### 🤖 Sentinel — Autonomous Distributed System Healer
-> Multi-agent log analyzer that detects anomalies and auto-remediates in real time
+### Environmental Audio Classification Pipeline
 
-**LangGraph** orchestrates 4 specialized agents: `Triage → Detective → RCA → Remediation`. Uses **Isolation Forest** for statistical anomaly detection. **WebSocket streaming** pushes live agent "thoughts" and diagnosis logs to a React frontend as they happen.
-
-![LangGraph](https://img.shields.io/badge/LangGraph-6366f1?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-&nbsp;[![Live Demo →](https://img.shields.io/badge/Live%20Demo%20%E2%86%92-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://backend-ai-logs-analyzer.vercel.app)
-
----
-
-### 🎯 Semantic LLM Cache Proxy — LLM Serving Infrastructure
-> Production-grade semantic cache that eliminates redundant LLM calls with vector similarity
-
-Runs **`all-MiniLM-L6-v2` locally via Transformers.js** — 100% embedding API cost eliminated, ~200ms latency saved per cache hit. **pgvector IVFFlat** cosine similarity store at 0.92 threshold with O(log n) ANN lookups. **Redis distributed locks** kill Thundering Herd under concurrent burst. Dual-model failover with zero downtime. Rolling p50/p95/p99 observability dashboard built-in.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Transformers.js](https://img.shields.io/badge/Transformers.js-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq_API-f97316?style=flat-square)
-![k6](https://img.shields.io/badge/k6-7d64ff?style=flat-square&logo=k6&logoColor=white)
-
-> ✅ **100 concurrent VUs** · ✅ **0% error rate** · ✅ **p99 < 500ms** — benchmarked via k6
-
-&nbsp;[![Live →](https://img.shields.io/badge/Live%20%E2%86%92-22c55e?style=flat-square&logo=vercel&logoColor=white)](https://github.com/manish182003)
-
----
-
-### 📱 SnapQuote AI — AI SaaS Platform
-> Multi-tenant AI quote generation app · Live on the Play Store
-
-Full multi-tenant SaaS with **JWT auth**, per-user quota enforcement, and tiered premium access. **Groq API** speech-to-text pipeline with retry-safe request orchestration, heuristic-based fallback generation during model failures, and request throttling. **Redis-backed** public quote caching. Server-side Android IAP validation with real-time entitlement sync.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-f97316?style=flat-square)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-&nbsp;[![Play Store →](https://img.shields.io/badge/Play%20Store%20%E2%86%92-414141?style=flat-square&logo=google-play&logoColor=white)](https://github.com/manish182003)
-
----
-
-### 🔊 Deep Audio Classifier & Visualizer
-> End-to-end PyTorch CNN pipeline from raw audio to class prediction
-
-Custom **PyTorch CNN** trained on audio spectrograms. Deployed via **Modal** serverless GPU inference. React frontend visualizes live audio waveforms and returns class predictions. Handles the full pipeline: raw audio → Mel spectrogram → model inference → result.
+<div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Modal](https://img.shields.io/badge/Modal-000000?style=flat-square&logoColor=white)
+![ResNet](https://img.shields.io/badge/ResNet--34-CNN-red?style=flat-square)
+![Modal](https://img.shields.io/badge/Modal-Serverless_GPU-black?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+</div>
+
+> From raw environmental audio to an explainable deep-learning prediction.
+
+### 🎵 End-to-End Pipeline
+
+```text
+🎵 Raw Audio
+      │
+      ▼
+📊 Mel Spectrogram
+      │
+      ▼
+🧠 ResNet-34 Style CNN
+      │
+      ▼
+🎯 50 Environmental Sound Classes
+      │
+      ▼
+🚀 FastAPI + Modal
+      │
+      ▼
+🌐 React Visualization
+```
+
+### 🧠 Model
+
+- Custom **ResNet-34-style 2D CNN**
+- **21M+ parameters**
+- **50 environmental sound classes**
+- PyTorch
+- torchaudio
+- Mel-spectrogram input
+
+### 🛡️ Regularization
+
+To address overfitting on a small training dataset:
+
+- SpecAugment
+- Mixup
+- Label smoothing
+
+### ⚙️ Training
+
+```text
+Optimizer       → AdamW
+Scheduler       → OneCycleLR
+Training        → 100 epochs
+GPU             → NVIDIA T4
+Framework       → PyTorch
+```
+
+### 🌐 Deployment
+
+The model is deployed through a **serverless FastAPI endpoint on Modal** with a React frontend for:
+
+- Audio waveform visualization
+- Predictions
+- CNN activation maps
+- Explainable model output
+
+---
+
+# 💼 Professional Experience
+
+## Software Engineer — Esferasoft Solutions
+
+**Mohali, India · Sept 2025 – April 2026**
+
+My professional experience has been focused on building production software while working closely with AI-powered features.
+
+### 🤖 AI-Powered Fitness Application
+
+Worked on:
+
+- AI-generated workout plans
+- AI-generated meal plans
+- Body scan flows
+- Food scan flows
+- Conversational fitness chatbot
+- Backend-hosted LLM integration
+- REST API integration
+
+### 🚚 Real-Time Laundry Pickup & Delivery Platform
+
+Worked on:
+
+- Driver application
+- Customer application
+- Google Maps integration
+- WebSockets
+- Real-time driver location tracking
+- Backend integration
+
+### 🧩 Engineering
+
+- Production feature development
+- Debugging
+- Code reviews
+- Clean and maintainable code
+- Collaboration with backend teams
+
+---
+
+# 🛠️ Tech Stack
+
+## 🐍 Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-&nbsp;[![Live Demo →](https://img.shields.io/badge/Live%20Demo%20%E2%86%92-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://audio-prediction-visualization.vercel.app)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+`OOP` `Data Structures & Algorithms`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Data & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-blue?style=flat-square)
+
+`Feature Engineering`  
+`Hyperparameter Tuning`  
+`Optuna`  
+`Model Evaluation`  
+`Statistical Analysis`  
+`EDA`  
+`Matplotlib` `Seaborn` `Plotly`
+
+---
+
+## 🧠 Deep Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+`CNNs` `ResNet` `YOLOv8` `Transformers`
+
+---
+
+## 🤯 Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-6366f1?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-blue?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq_API-orange?style=flat-square)
+
+`RAG`
+
+`Hybrid Dense + Sparse Retrieval`
+
+`Cross-Encoder Reranking`
+
+`NL-to-SQL`
+
+`Vector Databases`
+
+`OpenAI API` `Gemini API` `Groq API`
+
+---
+
+## ⚙️ MLOps & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+`FastAPI` `Docker` `CI/CD` `AWS EC2`
+
+`MLflow` `Great Expectations` `Modal`
+
+`Model Monitoring`
+
+---
+
+## 🗄️ Backend & Databases
+
+`PostgreSQL` `DuckDB` `MongoDB` `Redis`
+
+`REST APIs` `WebSockets` `Git`
+
+---
+
+# 🎓 Education
+
+## Bachelor of Technology — Computer Science & Engineering
+
+**Amrapali Institute of Technology, Uttarakhand**
+
+`August 2021 → June 2025`
+
+### Relevant Coursework
+
+`Artificial Intelligence`
+
+`Machine Learning`
+
+`Deep Learning`
+
+`Probability & Statistics`
+
+`Data Structures & Algorithms`
+
+`Object-Oriented Programming`
+
+`System Design`
+
+---
+
+# 🏆 Achievements
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manish182003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish182003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+### 🥇 Naukri Campus Young Turks
 
-</div>
+**Top 1.5% Nationwide**
 
-<div align="center">
+**98.48 Percentile**
 
-<img src="https://streak-stats.demolab.com/?user=manish182003&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+---
 
-</div>
+### 💻 LeetCode
 
-<div align="center">
+**162+ Problems Solved**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manish182003&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+`Dynamic Programming` · `Graphs` · `Monotonic Stack` · `Sliding Window`
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+# 🧩 How I Think About AI Engineering
 
+I don't see an ML project as just:
+
+```text
+Dataset → Model → Accuracy
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│  Esferasoft Solutions                          Sept 2025 – Apr 2026  │
-│  Software Developer · Mobile & Backend Engineering                   │
-│  → Meng AI: Flutter + Node.js + Gemini API fitness SaaS             │
-│     LLM inference pipeline — sub-300ms avg latency under load       │
-│  → iOS & Android IAP with server-side validation — <1% failure rate │
-│  → Multi-role laundry platform with admin-driven state machine      │
-├──────────────────────────────────────────────────────────────────────┤
-│  Freelance · Fiverr                            Nov 2023 – Aug 2025   │
-│  Full-Stack & ML Engineer · Remote                                   │
-│  → 8+ production apps for international clients                     │
-│  → YOLOv8 shelf detector: 12GB dataset → 11MB TFLite on-device     │
-│  → Domains: food delivery, logistics, SaaS                          │
-├──────────────────────────────────────────────────────────────────────┤
-│  Hackerkernel Pvt. Ltd.                        Jan 2025 – Apr 2025   │
-│  Software Engineering Intern · Remote                                │
-│  → QR-based international payment application                       │
-│  → Reduced application latency via data processing optimization     │
-└──────────────────────────────────────────────────────────────────────┘
+
+I think about the complete system:
+
+```text
+                ┌──────────────┐
+                │     DATA     │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │ PREPROCESSING│
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │    MODEL     │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │  EVALUATION  │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │     API      │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │  DEPLOYMENT  │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │  MONITORING  │
+                └──────┬───────┘
+                       ↓
+                ┌──────────────┐
+                │   PRODUCT    │
+                └──────────────┘
+```
+
+That's the direction I'm working toward:
+
+### **Engineering AI systems, not just training models.**
+
+---
+
+# 🎯 Current Focus
+
+```text
+                    AI / ML
+                       │
+        ┌──────────────┼──────────────┐
+        ↓              ↓              ↓
+   Machine Learning  Deep Learning  Generative AI
+        │              │              │
+     XGBoost         PyTorch          RAG
+        │              │              │
+   Evaluation         CNNs          LLM APIs
+        │              │              │
+        └──────────────┼──────────────┘
+                       ↓
+                    MLOps
+                       │
+              Docker / MLflow
+                       │
+                    FastAPI
+                       │
+                    AWS EC2
+                       ↓
+                 AI/ML ENGINEERING
 ```
 
 ---
 
-## 🧠 What I Build
-
-| 🤖 AI Engineering | ⚙️ Backend Systems | 📱 Product Building |
-|---|---|---|
-| LLM orchestration & agents | Distributed architectures | Cross-platform mobile SaaS |
-| RAG pipelines & vector search | Redis, Pub/Sub, event-driven | From 0 → Play Store |
-| Semantic caching & inference | Load testing with k6 | Payments & IAP flows |
-| Anomaly detection systems | Microservices & API gateways | Multi-tenant platforms |
-
----
-
-## 📫 Let's Build Something
+# 📈 GitHub Stats
 
 <div align="center">
 
-*If you're working on **AI products**, **developer tools**, or **ambitious SaaS** — I'd love to connect.*
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manish182003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
 
-[![Email](https://img.shields.io/badge/manishjoshi182003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishjoshi182003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-joshi182)
-[![Portfolio](https://img.shields.io/badge/manishjoshi.online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manishjoshi.online)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish182003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=manish182003&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manish182003&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+If you're working on **AI/ML, Generative AI, Deep Learning, RAG, MLOps or AI products**, I'd love to connect.
+
+<br/>
+
+<a href="mailto:manishjoshi182003@gmail.com">
+<img src="https://img.shields.io/badge/Email-Manish%20Joshi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/manish-joshi182">
+<img src="https://img.shields.io/badge/LinkedIn-Manish%20Joshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://manishjoshi.online">
+<img src="https://img.shields.io/badge/Portfolio-manishjoshi.online-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0f0f23&height=110&section=footer" width="100%"/>
 
-*⚡ Building at the intersection of AI and product engineering*
+### ⚡ Software Engineer by experience. AI/ML Engineer by direction.
+
+**Learning → Building → Deploying → Improving**
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0f0f23&height=120&section=footer" width="100%"/>
